@@ -5,8 +5,10 @@ Aside all the nodes, I put my strenght on Java (Spring Framework), and C-Sharp.
 Below are few tools I have gotten my hands dirty on😁👨‍💻
 
 ## Databases
+
+![avatar](https://dev.mysql.com/common/logos/mysql-logo.svg&h=300&w=300&fit=cover&mask=circle&maxage=7d)
 <a href="https://www.mongodb.com/">
-    <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" width="70" height="65" style="border-radius: 50px;"/>
+    <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" width="70" height="65" style="border-radius: 70px;"/>
 </a>
 <a href="https://www.mysql.com/">
     <img src="https://dev.mysql.com/common/logos/mysql-logo.svg" width="70" height="65" style="border-radius: 50"/>
