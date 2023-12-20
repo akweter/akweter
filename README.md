@@ -1,8 +1,8 @@
 # Hello, Here's Uncle Jamie! 👋🤗
 
-A Software Enginner with the focus on buiding ```Enterprise Web System.``` </b>
-Aside all the nodes, I put my strenght on Java (Spring Framework), and C-Sharp...</b>
-Below are few tools I have gotten my hands dirty on 😁👨‍💻
+A Software Enginner with the focus on buiding ```Enterprise Web Systems.``` </b>
+Aside all the nodes, I put my strength on Java (Spring Framework), and C-Sharp...</b>
+Below are few tools I got my hands dirty on😁👨‍💻
 
 ## Databases
 
