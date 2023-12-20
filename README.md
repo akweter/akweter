@@ -23,11 +23,11 @@ Below are few tools I have gotten my hands dirty on
     <img src="" width="70" height="65" style="border-radius: 50"/>
 </a>
 
-## Tools I Use
+## Tools
 
 <!-- [![Git](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)](https://git-scm.com/) -->
 <a href="" title="Git">
-    <img src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png" width="100" height="98" style="border-radius: 50"/>
+    <img src="https://gitlab.com/uploads/-/system/project/avatar/11916151/proxy.duckduckgo.com.png" width="100" height="98" style="border-radius: 50"/>
 </a>
 <!-- [![Docker](https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png)](https://www.docker.com/) -->
 <a href="">
