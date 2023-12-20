@@ -24,6 +24,18 @@ Below are few tools I have gotten my hands dirty on 😁👨‍💻
 
 ## My Hacks
 
+<a href="https://www.javascript.com/" title="Javacript">
+    <img src="https://c0.klipartz.com/pngpicture/826/162/gratis-png-desarrollo-de-sitios-web-javascript-html5-hojas-de-estilo-en-cascada-css3-logotipo-html.png" width="70" height="65">
+</a>
+
+<a href="https://www.java.com/" title="Java">
+    <img src="https://p7.hiclipart.com/preview/405/878/407/java-runtime-environment-computer-icons-java-platform-standard-edition-java.jpg" width="70" height="65">
+</a>
+
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp/" title="C-Sharp">
+    <img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="70" height="65">
+</a>
+
 <a href="https://git-scm.com/" title="Git">
     <img src="https://gitlab.com/uploads/-/system/project/avatar/11916151/proxy.duckduckgo.com.png" width="70" height="65">
 </a>
