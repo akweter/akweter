@@ -19,6 +19,18 @@ Below are few tools I got my hands dirty on😁👨‍💻
     <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" width="70"/>
 </a>
 
+## Servers
+
+<a href="https://expressjs.com/" title="Express.js">
+    <img src="https://expressjs.com/images/express-facebook-share.png" width="70" height="65">
+</a>
+<a href="https://www.nginx.com/" title="Nginx">
+    <img src="https://quiksite.com/wp-content/uploads/2016/09/Nginx-Logo-02.png.webp" width="70" height="65">
+</a>
+<a href="https://httpd.apache.org/" title="Apache">
+    <img src="https://www.techrepublic.com/wp-content/uploads/2016/11/apachehero.jpg" width="70" height="65">
+</a>
+
 ## Lanuguage & Framweworks
 
 <a href="https://www.javascript.com/" title="Javacript">
@@ -76,10 +88,6 @@ Below are few tools I got my hands dirty on😁👨‍💻
 
 <a href="https://www.docker.com/" title="Docker">
     <img src="https://logowik.com/content/uploads/images/301_docker.jpg" width="70" height="65">
-</a>
-
-<a href="https://expressjs.com/" title="Express.js">
-    <img src="https://expressjs.com/images/express-facebook-share.png" width="70" height="65">
 </a>
 
 <a href="https://www.postman.com/" title="Postman">
