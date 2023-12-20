@@ -11,9 +11,18 @@ Below are few tools I have gotten my hands dirty on😁👨‍💻
 <a href="https://www.mysql.com/">
     <img src="https://dev.mysql.com/common/logos/mysql-logo.svg" width="70" height="65" style="border-radius: 50"/>
 </a>
+<a href="https://www.postgresql.org/">
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70" height="65" style="border-radius: 50"/>
+</a>
+<a href="https://redis.io/">
+    <img src="https://redis.io/images/redis-white.png" width="70" height="65" style="border-radius: 50"/>
+</a>
+<a href="">
+    <img src="" width="70" height="65" style="border-radius: 50"/>
+</a>
 <!-- [![MySQL](https://dev.mysql.com/common/logos/mysql-logo.svg)](https://www.mysql.com/) -->
-[![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)](https://www.postgresql.org/)
-[![Redis](https://redis.io/images/redis-white.png)](https://redis.io/)
+<!-- [![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)](https://www.postgresql.org/) -->
+<!-- [![Redis](https://redis.io/images/redis-white.png)](https://redis.io/) -->
 
 ## Tools I Use
 
