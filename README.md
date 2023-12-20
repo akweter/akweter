@@ -17,7 +17,7 @@ Below are few tools I have gotten my hands dirty on
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70" height="65" style="border-radius: 50%"/>
 </a>
 <a href="https://redis.io/">
-    <img src="https://w7.pngwing.com/pngs/428/940/png-transparent-logo-redis-redis-icon.png" width="70" height="65" style="border-radius: 50%"/>
+    <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" width="70" height="65" style="border-radius: 50%"/>
 </a>
 <a href="">
     <img src="" width="70" height="65" style="border-radius: 50"/>
