@@ -7,7 +7,7 @@ Below are few tools I got my hands dirty on😁👨‍💻
 ## Databases
 
 <a href="https://www.mongodb.com/">
-    <img src="https://p7.hiclipart.com/preview/63/19/815/mongodb-database-nosql-postgresql-mongo.jpg" width="70" height="65" />
+    <img src="https://p7.hiclipart.com/preview/63/19/815/mongodb-database-nosql-postgresql-mongo.jpg" width="50" height="45" />
 </a>
 <a href="https://www.mysql.com/">
     <img src="https://dev.mysql.com/common/logos/mysql-logo.svg" width="70" height="65" style="border-radius: 50"/>
