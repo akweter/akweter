@@ -24,9 +24,7 @@ Below are few tools I have gotten my hands dirty on
 </a>
 
 ## My Hacks
-Certainly! Here's the updated code without comments:
 
-```markdown
 <a href="https://git-scm.com/" title="Git">
     <img src="https://gitlab.com/uploads/-/system/project/avatar/11916151/proxy.duckduckgo.com.png" width="100" height="98" style="border-radius: 50%;">
 </a>
@@ -114,9 +112,6 @@ Certainly! Here's the updated code without comments:
 <a href title="">
     <img src="" width="70" height="65" style="border-radius: 50%;">
 </a>
-```
-
-You can fill in the remaining placeholders as needed. If you have any more requests or questions, feel free to let me know! 😊
 
 ## Let's Connect
 
