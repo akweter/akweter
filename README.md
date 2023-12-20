@@ -65,7 +65,7 @@ Below are few tools I have gotten my hands dirty on 😁👨‍💻
 </a>
 
 <a href="https://kubernetes.io/" title="Kubernetes">
-    <img src="https://kubernetes.io/images/kubernetes-horizontal-color.png" width="70" height="65">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="70" height="65">
 </a>
 
 <a href="https://aws.amazon.com/" title="AWS">
@@ -76,7 +76,7 @@ Below are few tools I have gotten my hands dirty on 😁👨‍💻
 </a>
 
 <a href="https://firebase.google.com/" title="Firebase">
-    <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-standard.png" height="65">
+    <img src="https://p1.hiclipart.com/preview/272/846/555/google-logo-firebase-firebase-cloud-messaging-google-cloud-messaging-web-components-computer-software-serverless-computing-javascript-png-clipart.jpg" height="65">
 </a>
 
 <a href="https://www.figma.com/" title="Figma">
