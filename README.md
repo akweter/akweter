@@ -8,7 +8,7 @@ Below are few tools I have gotten my hands dirty on
 ## Databases
 
 <a href="https://www.mongodb.com/">
-    <img src="https://p7.hiclipart.com/preview/63/19/815/mongodb-database-nosql-postgresql-mongo.jpg" width="70" height="65" style="border: 2px solid  gray; border-radius: 50%;"/>
+    <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="70" height="65" style="border: 2px solid  gray; border-radius: 50%;"/>
 </a>
 <a href="https://www.mysql.com/">
     <img src="https://dev.mysql.com/common/logos/mysql-logo.svg" width="70" height="65" style="border-radius: 50"/>
@@ -17,7 +17,7 @@ Below are few tools I have gotten my hands dirty on
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70" height="65" style="border-radius: 50%"/>
 </a>
 <a href="https://redis.io/">
-    <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" width="70" height="65" style="border-radius: 50%"/>
+    <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120"  style="border-radius: 50%"/>
 </a>
 <a href="">
     <img src="" width="70" height="65" style="border-radius: 50"/>
