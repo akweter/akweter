@@ -2,8 +2,7 @@
 
 A software enginner with focus on buiding enterprise Web System.
 Aside all the nodes, I put my strenght on Java (Spring Framework), and C-Sharp.
-Below are few tools I have gotten my hands dirty on
-## 😁👨‍💻
+Below are few tools I have gotten my hands dirty on 😁👨‍💻
 
 ## Databases
 
@@ -105,22 +104,20 @@ Below are few tools I have gotten my hands dirty on
     <img src="https://www.invisionapp.com/assets/img/brand/logo-invision.svg" width="70" height="65" style="border-radius: 50%;">
 </a>
 
-<a href title="">
-    <img src="" width="70" height="65" style="border-radius: 50%;">
-</a>
-
-<a href title="">
-    <img src="" width="70" height="65" style="border-radius: 50%;">
-</a>
-
 ## Let's Connect
+[Facebook](https://facebook.com)
+[LinkedIn](https://linkedin.com)
+[Skype](https://skype.com)
+[Email](mailto:jamesakweter@gmail.com)
+[Youtbe](https://youtube.com)
 
-- 🔭 I’m currently working on exciting projects!
-- 🌱 I’m constantly learning and growing.
-- ⚡ Fun fact: I enjoy exploring new technologies and contributing to open source.
+## Available For;
 
-Check out my [portfolio website](https://www.yourportfolio.com) for more details.
+- 🔭 OpenSource Project
+- 🌱 Traning and Mentorship.
+- ⚡ Ready to mingle 🤣
 
+What do you think of this [portfolio website](https://www.james.akweter.online)?
+
+``` Fav Quote ```
 > "Why do programmers prefer dark mode? Because light attracts bugs!" 😄
-
-<!-- Add more content as needed -->
