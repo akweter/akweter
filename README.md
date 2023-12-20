@@ -7,7 +7,7 @@ I'm a passionate Full Stack Developer with expertise in Java, C#, JavaScript, an
 [![MongoDB](https://docs.mongodb.com/images/mongodb-logo.png)](https://www.mongodb.com/)
 [![MySQL](https://dev.mysql.com/common/logos/mysql-logo.svg)](https://www.mysql.com/)
 [![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)](https://www.postgresql.org/)
-[![Redis](https://redis.io/images/redis-white.png)](https://redis.io/)
+[![Redis](https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png)](https://redis.io/)
 
 ## Tools I Use
 
