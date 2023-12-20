@@ -1,11 +1,17 @@
-# Hello, I'm James Akweter! 👋
+# Hello, Here's Uncle Jamie! 👋🤗
 
-I'm a passionate Full Stack Developer with expertise in Java, C#, JavaScript, and working with various databases and tools. From design to deployment, I love building software that makes a difference.
+A software enginner with focus on buiding enterprise Web System.
+Aside all the nodes, I put my strenght on Java (Spring Framework), and C-Sharp.
+Below are few tools I have gotten my hands dirty on😁👨‍💻
 
-## Databases I Work With
-
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" width="70" height="65" /></a>
-[![MySQL](https://dev.mysql.com/common/logos/mysql-logo.svg)](https://www.mysql.com/)
+## Databases
+<a href="https://www.mongodb.com/">
+    <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" width="70" height="65" />
+</a>
+<a href="https://www.mysql.com/">
+    <img src="https://dev.mysql.com/common/logos/mysql-logo.svg" width="70" height="65" style="border-radius: 50"/>
+</a>
+<!-- [![MySQL](https://dev.mysql.com/common/logos/mysql-logo.svg)](https://www.mysql.com/) -->
 [![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)](https://www.postgresql.org/)
 [![Redis](https://redis.io/images/redis-white.png)](https://redis.io/)
 
