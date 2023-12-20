@@ -2,13 +2,13 @@
 
 A software enginner with focus on buiding enterprise Web System.
 Aside all the nodes, I put my strenght on Java (Spring Framework), and C-Sharp.
-Below are few tools I have gotten my hands dirty on😁👨‍💻
+Below are few tools I have gotten my hands dirty on
+## 😁👨‍💻
 
 ## Databases
 
-![avatar](https://dev.mysql.com/common/logos/mysql-logo.svg&h=300&w=300&fit=cover&mask=circle&maxage=7d)
 <a href="https://www.mongodb.com/">
-    <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" width="70" height="65" style="border-radius: 70px;"/>
+    <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" width="70" height="65" style="border-radius: 50%;"/>
 </a>
 <a href="https://www.mysql.com/">
     <img src="https://dev.mysql.com/common/logos/mysql-logo.svg" width="70" height="65" style="border-radius: 50"/>
@@ -22,9 +22,6 @@ Below are few tools I have gotten my hands dirty on😁👨‍💻
 <a href="">
     <img src="" width="70" height="65" style="border-radius: 50"/>
 </a>
-<!-- [![MySQL](https://dev.mysql.com/common/logos/mysql-logo.svg)](https://www.mysql.com/) -->
-<!-- [![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)](https://www.postgresql.org/) -->
-<!-- [![Redis](https://redis.io/images/redis-white.png)](https://redis.io/) -->
 
 ## Tools I Use
 
