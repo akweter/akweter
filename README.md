@@ -13,10 +13,10 @@ Below are few tools I got my hands dirty on😁👨‍💻
     <img src="https://dev.mysql.com/common/logos/mysql-logo.svg" width="50" height="45"/>
 </a>
 <a href="https://www.postgresql.org/">
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="70"/>
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50"/>
 </a>
 <a href="https://redis.io/">
-    <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85,75&width=120" width="70"/>
+    <img src="https://redis.com/wp-content/themes/wpx/assets/images/logo-redis.svg?auto=webp&quality=85" width="120"/>
 </a>
 
 ## Servers
@@ -114,7 +114,7 @@ Below are few tools I got my hands dirty on😁👨‍💻
 </a>
 
 <a href="https://firebase.google.com/" title="Firebase">
-    <img src="https://p1.hiclipart.com/preview/272/846/555/google-logo-firebase-firebase-cloud-messaging-google-cloud-messaging-web-components-computer-software-serverless-computing-javascript-png-clipart.jpg" height="65">
+    <img src="https://p1.hiclipart.com/preview/272/846/555/google-logo-firebase-firebase-cloud-messaging-google-cloud-messaging-web-components-computer-software-serverless-computing-javascript-png-clipart.jpg" width="50" height="45">
 </a>
 
 ## Security
