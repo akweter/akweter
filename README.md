@@ -4,7 +4,7 @@ I'm a passionate Full Stack Developer with expertise in Java, C#, JavaScript, an
 
 ## Databases I Work With
 
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://docs.mongodb.com/images/mongodb-logo.png" width="70" height="65" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon.png" width="70" height="65" /></a>
 [![MongoDB](https://docs.mongodb.com/images/mongodb-logo.png)](https://www.mongodb.com/)
 [![MySQL](https://dev.mysql.com/common/logos/mysql-logo.svg)](https://www.mysql.com/)
 [![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png)](https://www.postgresql.org/)
