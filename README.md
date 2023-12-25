@@ -53,6 +53,9 @@ Below are few tools I got my hands dirty on😁👨‍💻
     <img src="https://static.cdnlogo.com/logos/c/27/c.svg" width="50" height="45">
 </a>
 
+<a href="https://www.php.net/" title="PHP">
+    <img src="https://www.php.net/images/logos/php-logo.svg" width="50" height="45">
+</a>
 <a href="https://nodejs.org/" title="Node.js">
     <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon.png" width="50" height="45">
 </a>
