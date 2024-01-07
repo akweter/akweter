@@ -1,5 +1,4 @@
-# Hello,
-## Here's Uncle Jamie! 👋🤗
+# Hi, here's Uncle Jamie! 👋🤗
 
 A Software Enginner with the focus on buiding ```Enterprise Web Systems.``` </b>
 Aside all the nodes, I put my strength on Java (Spring Framework), and C-Sharp...</b>
